@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "GGz5IfWQWP4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Роман\\source\\repos\\OrderService\\OrderService\\OrderService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Роман\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\Роман\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\Роман\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512",
+    "C:\\Users\\Роман\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Роман\\.nuget\\packages\\scalar.aspnetcore\\2.12.44\\scalar.aspnetcore.2.12.44.nupkg.sha512",
+    "C:\\Users\\Роман\\.nuget\\packages\\stackexchange.redis\\2.11.3\\stackexchange.redis.2.11.3.nupkg.sha512",
+    "C:\\Users\\Роман\\.nuget\\packages\\system.io.hashing\\10.0.2\\system.io.hashing.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

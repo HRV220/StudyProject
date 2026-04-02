@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/k8/">
+    <File Path="notificationService-pod.yml" />
+    <File Path="order-service-srv.yml" />
+    <File Path="orderService-pod.yml" />
+    <File Path="redis-pod.yaml" />
+    <File Path="redis-srv.yml" />
+  </Folder>
+  <Folder Name="/Элементы решения/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="NotificationService/NotificationService.csproj" />
+  <Project Path="OrderService/OrderService.csproj" />
+</Solution>
